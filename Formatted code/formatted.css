@@ -1508,8 +1508,7 @@ footer{
 }
 
 .footer-right-eye{
-    box-shadow: 15px 15px 5px rgba(0, 0, 0, 0.233) inset,
-    10px 10px 5px rgba(41, 33, 33, 0.644) inset;
+    box-shadow: -10px -15px 5px rgba(0, 0, 0, 0.349) inset;
     position: relative;
 }
 .footer-left-eye{
@@ -1945,7 +1944,7 @@ transition-duration: 1s;
         font-size: 42%;
     }
     .dp img{
-        width: 200px;
+        width: 200px;vinod
     }
     .two-words{
         height: 50px;
@@ -1960,7 +1959,7 @@ transition-duration: 1s;
     .logos{
         gap: 20px;
     }
-     /* https://github.com/vinodjangid07 */
+
   }
   @media screen and (max-width:300px) {
     html {
@@ -1999,3 +1998,31 @@ transition-duration: 1s;
         justify-content: flex-start;
     }
   } */
+/* experience */
+.work-experience {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.experience {
+  margin-bottom: 40px;
+}
+
+.experience h3 {
+  margin-bottom: 10px;
+}
+
+.company {
+  font-weight: bold;
+}
+
+.date {
+  color: #666;
+  margin-bottom: 10px;
+}
+
+ul {
+  list-style-type: disc;
+  margin-left: 20px;
+}
