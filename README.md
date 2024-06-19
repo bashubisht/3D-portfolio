@@ -2,6 +2,7 @@
 
 Welcome to the GitHub repository for my personal portfolio website! This site has been meticulously handcrafted using HTML, CSS, and JavaScript to showcase my web development projects and skills.
 
+![App Screenshot](Images/img1.png)
 ## About the Project
 
 This portfolio is not only a showcase of my work but also a testament to my journey in learning and mastering web development. The website is built to demonstrate my skills in creating responsive and dynamic websites.
