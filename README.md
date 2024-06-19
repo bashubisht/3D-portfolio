@@ -43,12 +43,3 @@ Thank you for visiting my project. I hope you find the work interesting and insp
 License
 This project is open-sourced under the MIT license. See the LICENSE file for details.
 
-Tags
-#WebDevelopment
-#HTML
-#CSS
-#JavaScript
-#Portfolio
-#FrontendDevelopment
-#DeveloperJourney
-#TechPassion
