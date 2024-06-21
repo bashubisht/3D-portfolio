@@ -2,6 +2,11 @@
 
 Welcome to the GitHub repository for my personal portfolio website! This site has been meticulously handcrafted using HTML, CSS, and JavaScript to showcase my web development projects and skills.
 
+
+![App Screenshot](Images/img1.png)
+
+
+![App Screenshot](Images/img2.png)
 ## About the Project
 
 This portfolio is not only a showcase of my work but also a testament to my journey in learning and mastering web development. The website is built to demonstrate my skills in creating responsive and dynamic websites.
@@ -39,6 +44,10 @@ Portfolio: bashubisht.com
 LinkedIn: linkedin.com/in/bashu-bisht
 Email: bisht.b@northeastern.edu
 Thank you for visiting my project. I hope you find the work interesting and inspiring!
+
+
+![App Screenshot](Images/img3.png)
+
 
 License
 This project is open-sourced under the MIT license. See the LICENSE file for details.
